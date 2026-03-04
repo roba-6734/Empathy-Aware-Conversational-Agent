@@ -1,4 +1,4 @@
-# Multimodal Empathy-Aware Conversational Agent (MVP)
+# Multimodal Empathy-Aware Conversational Agent
 
 Research-oriented Python prototype for empathetic dialogue with modular text emotion analysis, optional vision cues, explainable multimodal fusion, and emotion-adaptive response generation.
 
